@@ -1,0 +1,3 @@
+Para configurar el programa, descomprima los archivos de este en la misma carpeta. El programa no necesita configuración adicional.
+Para ejecutar la calculadora, abra el archivo calculadora.html en un navegador web.
+Una vez se tiene abierto el programa, se puede utilizar la calculadora apretando los botones que hay en esta para formar expresiones matemáticas. El botón igual (=) permite calcular el resultado de la expresión ingresada si esta es válida y el botón de limpiar (C) permite borrar la expresión actual.
